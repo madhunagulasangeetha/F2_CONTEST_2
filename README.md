@@ -1,1 +1,1 @@
-# F2_CONTEST_2
+# f2-contest-2
